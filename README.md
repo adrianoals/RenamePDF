@@ -1,7 +1,7 @@
 # Projeto de Renomeação de PDFs
 
 ## Descrição
-Este projeto consiste em um script Python desenvolvido para automatizar a tarefa de renomear arquivos PDF para uma administradora de condomínios. 
+Este projeto consiste em um script Python desenvolvido para automatizar a tarefa de renomear arquivos PDF, realizado para uma administradora de condomínios. 
 O objetivo é organizar os documentos de forma mais eficiente, facilitando o acesso e a gestão dos mesmos. O script extrai informações de uma 
 planilha do Excel contendo uma lista de condomínios e utiliza essas informações para renomear os arquivos PDF correspondentes.
 
